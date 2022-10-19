@@ -19,3 +19,6 @@
 * Capacidade de inovação
 * Auto-controle
 * Inglês
+
+
+
