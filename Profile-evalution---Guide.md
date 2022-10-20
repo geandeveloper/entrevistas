@@ -1,5 +1,3 @@
-# Profile evalution - Guide
-
 * Desenvolvimento front-end
   * Angular
   * React
